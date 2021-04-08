@@ -6,7 +6,7 @@
     <div class="article__wrapper">
 
         {% if post.image %}
-       src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/{{post.featured-img}}_placehold.jpg"
+       <!-- src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/{{post.featured-img}}_placehold.jpg" -->
           <a href="{{post.url | prepend: site.baseurl}}" class="article__image" style="background-image: url({{site.baseurl}}/assets/img/posts/{{post.featured-image}}_placehold.jpg)">
           </a>
         {% else %}
