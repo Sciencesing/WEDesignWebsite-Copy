@@ -48,7 +48,7 @@ layout: compress
 
               {% for post in site.posts %}
                 <h1 class="hero__title">{{ post.tags }}</h1>
-                {% if post.tags == post.tags %}
+                {% if post.tags == sponsors %}
                   {% include card.html %}
                 {% endif %}
               {% endfor %}
