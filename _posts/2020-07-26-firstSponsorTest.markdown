@@ -3,6 +3,7 @@ layout: post
 title:  Sponsor Test
 date:   2020-07-26 15:01:35 +0300
 image:  sleek
+featured-img: emile-perron-190221
 tags: sponsor
 ---
 Yeah, and if you were the pope they'd be all, "Straighten your pope hat." And "Put on your good vestments." Noooooo! Perhaps, but perhaps your civilization is merely the sewer of an even greater society above you!
