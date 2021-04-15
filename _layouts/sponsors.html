@@ -49,6 +49,7 @@ layout: compress
               {% for post in site.posts %}
                 {% if post.tags %}
                   {% include card.html %}
+                {% else %}
                 {% endif %}
               {% endfor %}
 
