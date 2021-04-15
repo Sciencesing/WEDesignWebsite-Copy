@@ -2,7 +2,6 @@
 layout: post
 title:  Sponsor Test
 date:   2020-07-26 15:01:35 +0300
-image:  sleek
 featured-img: emile-perron-190221
 tags: sponsor
 ---
