@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sponsors
 title: Sponsors
 permalink: /sponsors/
 featured-img: shane-rounce-205187
