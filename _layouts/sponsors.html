@@ -47,11 +47,10 @@ layout: compress
             <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
 
               {% for post in site.posts %}
-                {{post.tags}}
-                {% if post.tags == "sponsor" %}
-                <p>No idea if this does not print<\p>
-                {% else %}
+                {% if post.tags == "sponsor\n" %}
                   {% include card.html %}
+                {% else %}
+                  {{ post.tags }}
                 {% endif %}
               {% endfor %}
 
