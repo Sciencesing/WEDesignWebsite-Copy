@@ -25,7 +25,7 @@ navigation: # Navigation links
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
   - {name: 'Beta', link: '/beta'}
-  - {name: 'Sponsor', link: '/sponsor'}
+  - {name: 'Sponsors', link: '/sponsors'}
 
 tagline: >
   Modern Jekyll theme focused on speed performance &amp; SEO best practices
