@@ -47,7 +47,6 @@ layout: compress
             <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
 
               {% for post in site.posts %}
-                <h1 class="hero__title">{{ post.tags }}</h1>
                 {% if post.tags %}
                   {% include card.html %}
                 {% endif %}
