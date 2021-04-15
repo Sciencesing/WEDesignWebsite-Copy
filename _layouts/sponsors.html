@@ -47,8 +47,8 @@ layout: compress
             <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
 
               {% for post in site.posts %}
-                <p>I hope this works</p>
                 {% if post.tags.includes("sponsor") %}
+                  <p>I hope this works</p>
                   {% include card.html %}
                 {% endif %}
               {% endfor %}
