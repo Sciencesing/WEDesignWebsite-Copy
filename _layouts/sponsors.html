@@ -48,9 +48,7 @@ layout: compress
 
               {% for post in site.posts %}
                 {% if post.tags contains "sponsor" %}
-                  {% include card.html %}
-                {% else %}
-                  {{ post.tags }}
+                  {% include sponsCard.html %}
                 {% endif %}
               {% endfor %}
 
