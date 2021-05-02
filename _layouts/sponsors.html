@@ -115,9 +115,9 @@ layout: compress
 
               {% for post in site.posts %}
                 {% if post.tags contains "sponsor"%}
-                  {% if post.tags contains "platinum" or post.tags contains "gold" or post.tags contains "silver" %}
-                  {% else %}
+                  {% unless post.tags contains "platinum" or post.tags contains "gold" or post.tags contains "silver" %}
                     {% include sponsCard.html %}
+                  {% endunless %}
                 {% endif %}
               {% endfor %}
 
