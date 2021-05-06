@@ -1,3 +1,23 @@
+{% if post.featured-img %}
+      <figure class="post-card__thumb">
+        <img
+          src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/{{post.featured-img}}_placehold.jpg"
+          data-srcset="{{ site.url }}{{ site.baseurl }}/assets/img/posts/{{post.featured-img}}_thumb.jpg, {{ site.url }}{{ site.baseurl }}/assets/img/posts/{{post.featured-img}}_thumb@2x.jpg 2x"
+          class="lazyload blur"
+          alt="{{post.title}}"
+          width="100px"
+          height="100px"
+        />
+        <noscript><img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/{{post.featured-img}}_thumb.jpg" alt="{{ post.title }}" width="100px" height="100px"></noscript>
+      </figure>
+    {% else %}
+      <figure class="post-card__thumb">
+        <div class="dark-bg"></div>
+      </figure>
+    {% endif %}
+
+<!--
+
 <div class="post-card" itemprop="blogPosts" itemscope="" itemtype="http://schema.org/BlogPosting">
   <!--{% if post.categories %}
     {% assign categories = post.categories %}
@@ -7,7 +27,7 @@
         {% unless forloop.last %}&nbsp;{% endunless %}
       {% endfor %}
     </span>
-  {% endif %} -->
+  {% endif %} --<
   <a href="{{ post.sponsorlink }}">
     {% if post.featured-img %}
       <figure class="post-card__thumb">
@@ -34,13 +54,15 @@
       {% assign date_format = site.sleek.date_format | default: "%b %-d, %Y" %}
       <span class="post-card__meta">
         <time>{{ post.date | date: date_format }}</time>
-      </span> -->
+      </span> --<
     </div>
     <!--
     {% if post.summary %}
       <p>{{ post.summary | strip_html | truncatewords:20 }}</p>
     {% else %}
       <p>{{ post.content | strip_html | truncatewords: 20 }}</p>
-    {% endif %} -->
+    {% endif %} --<
   </a>
 </div>
+
+-->
