@@ -9,7 +9,7 @@ featured-img: shane-rounce-205187
 By sponsoring, you support our team and allow us to continue doing what we love for years to come!
 Below you can find what sort of perks you can get by sponsoring us:
 
-|     <span style="color:blue">some *blue* text</span>| Bronze <$500 | Silver $500+ | Gold $1,000+ | Platinum $3,000+ | Platinum Plus $5,000+ |
+|                                                     | <span style="color:sienna">Bronze <$500 </span> | Silver $500+ | Gold $1,000+ | Platinum $3,000+ | Platinum Plus $5,000+ |
 |-----------------------------------------------------|--------------|--------------|--------------|------------------|-----------------------|
 | Website Recognition                                 | Small        | Medium       | Large        | Large            | X-Large               |
 | Shirt Recognition                                   | Name         | Small        | Medium       | Large            | Large                 |
