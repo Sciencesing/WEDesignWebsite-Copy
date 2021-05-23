@@ -36,14 +36,19 @@ layout: compress
 
       <div class="container">
         <div class="page-content">
-
+          
+          <style>
+          .cats {
+            width: 500px;
+            height: 100px;
+          }
+          </style>
+          
           {{ content }}
           <img
           src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/emile-perron-190221_placehold.jpg"
-          class="lazyload blur"
+          class="lazyload blur cats"
           alt="{{post.title}}"
-          width="200%"
-          height="200%"
         />
 
         </div>
