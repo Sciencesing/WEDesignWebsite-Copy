@@ -2,6 +2,12 @@
 layout: compress
 ---
 <!DOCTYPE html>
+<style>
+.cats {
+  width: 500px;
+  height: 100px;
+}
+</style>
 <html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
 
   {% include head.html %}
@@ -36,18 +42,11 @@ layout: compress
 
       <div class="container">
         <div class="page-content">
-          
-          <style>
-          .cats {
-            width: 500px;
-            height: 100px;
-          }
-          </style>
-          
+                    
           {{ content }}
           <img
           src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/emile-perron-190221_placehold.jpg"
-          class="lazyload blur acat"
+          class="lazyload blur cats"
           alt="{{post.title}}"
         />
 
