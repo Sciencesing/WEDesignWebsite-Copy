@@ -15,4 +15,4 @@ Below you can find what sort of perks you can get by sponsoring us:
 | Shirt Recognition                                   | Name         | Small        | Medium       | Large            | Large                 |
 | Turbine Decal                                       | Name         | Small        | Medium       | Large            | Large                 |
 | Invitation to Design Reviews / Prototype Showcasing | √            | √            | √            | √                | √                     |
-
+  
