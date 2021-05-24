@@ -1,3 +1,4 @@
+<!--
 <a href="{{ post.sponsorlink }}">
 {% if post.featured-img %}
         <img
@@ -7,13 +8,13 @@
           width="500"
           height="500"
         />
-        <!-- <noscript><img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/{{post.featured-img}}_thumb.jpg" alt="{{ post.title }}" width="10px" height="10px"></noscript> -->
-    {% else %}
+        <!-- <noscript><img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/{{post.featured-img}}_thumb.jpg" alt="{{ post.title }}" width="10px" height="10px"></noscript>
+   --< {% else %}
         <div class="dark-bg"></div>
     {% endif %}
 </a>
+-->
 
-<!--
 
 <div class="post-card" itemprop="blogPosts" itemscope="" itemtype="http://schema.org/BlogPosting">
   <!--{% if post.categories %}
@@ -24,7 +25,7 @@
         {% unless forloop.last %}&nbsp;{% endunless %}
       {% endfor %}
     </span>
-  {% endif %} --<
+  {% endif %} -->
   <a href="{{ post.sponsorlink }}">
     {% if post.featured-img %}
       <figure class="post-card__thumb">
