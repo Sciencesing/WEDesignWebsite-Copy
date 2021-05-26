@@ -2,7 +2,7 @@
 layout: post
 title:  A new post
 date:   2020-07-24 15:01:35 +0300
-featured-image: sleek
+featured-img: sleek
 tags: sponsor platinum
       
 ---
