@@ -21,12 +21,12 @@
   height: 200px;
   margin: 10px 10px 10px 10px;
 }
-.small 
+.small {
   width: 125px;
   height: 125px;
   margin: 10px 10px 10px 10px;
 }
-.large 
+.large {
   width: 350px;
   height: 350px;
   margin: 10px 10px 10px 10px;
@@ -52,7 +52,7 @@
      {%assign sponsorType = "small"%}
  {% endunless %}
 
-<div class="large" itemprop="blogPosts" itemscope="" itemtype="http://schema.org/BlogPosting"> <!-- used to have "post-card" class -->
+<div class="{{sponsorType}}" itemprop="blogPosts" itemscope="" itemtype="http://schema.org/BlogPosting"> <!-- used to have "post-card" class -->
 <h3>{{sponsorType}}</h3>
   <!--{% if post.categories %}
     {% assign categories = post.categories %}
