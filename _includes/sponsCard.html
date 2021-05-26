@@ -52,7 +52,7 @@
      {%assign sponsorType = "small"%}
  {% endunless %}
 
-<div class="large" itemprop="blogPosts" itemscope="" itemtype="http://schema.org/BlogPosting"> <!-- used to have "post-card" class -->
+<div class="{{sponsorType}}" itemprop="blogPosts" itemscope="" itemtype="http://schema.org/BlogPosting"> <!-- used to have "post-card" class -->
 <h3>{{sponsorType}}</h3>
   <!--{% if post.categories %}
     {% assign categories = post.categories %}
@@ -66,7 +66,7 @@
   <a href="{{ post.sponsorlink }}">
     {% if post.featured-img %}
         
-      <figure class="{{sponsorType}} post-card__thumb">
+      <figure class="large post-card__thumb">
         
         <img
           src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/{{post.featured-img}}_placehold.jpg"
