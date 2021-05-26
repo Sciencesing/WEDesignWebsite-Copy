@@ -50,7 +50,7 @@
  {% endif %}
  {% unless post.tags contains "platinum" or post.tags contains "gold" or post.tags contains "silver" %}
      {%assign sponsorType = "small"%}
- {% endif %}
+ {% endunless %}
 
 <div class="medium" itemprop="blogPosts" itemscope="" itemtype="http://schema.org/BlogPosting"> <!-- used to have "post-card" class -->
 
