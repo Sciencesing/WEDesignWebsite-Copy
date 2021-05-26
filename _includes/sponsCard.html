@@ -29,15 +29,15 @@
   <a href="{{ post.sponsorlink }}">
     {% if post.featured-img %}
       <figure class="post-card__thumb">
-       <!-- <img
+       <img
           src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/{{post.featured-img}}_placehold.jpg"
           data-srcset="{{ site.url }}{{ site.baseurl }}/assets/img/posts/{{post.featured-img}}_thumb.jpg, {{ site.url }}{{ site.baseurl }}/assets/img/posts/{{post.featured-img}}_thumb@2x.jpg 2x"
           class="lazyload blur"
           alt="{{post.title}}"
-          width="50%"
-          height="50%"
-        /> -->
-        <noscript><img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/{{post.featured-img}}_thumb.jpg" alt="{{ post.title }}" width="5%" height="5%"></noscript>
+          width="5%"
+          height="5%"
+        />
+        <!--<noscript><img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/{{post.featured-img}}_thumb.jpg" alt="{{ post.title }}" width="5%" height="5%"></noscript>-->
       </figure>
     {% else %}
       <figure class="post-card__thumb">
