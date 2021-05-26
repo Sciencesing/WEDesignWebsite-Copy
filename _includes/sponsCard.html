@@ -66,7 +66,7 @@
   <a href="{{ post.sponsorlink }}">
     {% if post.featured-img %}
         
-      <figure class="large post-card__thumb">
+      <figure class="{{sponsorType}} post-card__thumb">
         
         <img
           src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/{{post.featured-img}}_placehold.jpg"
