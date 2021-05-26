@@ -15,6 +15,12 @@
 </a>
 -->
 
+<style>
+.resize {
+  width: 50%;
+  height: 50%;
+}
+</style>
 
 <div class="post-card" itemprop="blogPosts" itemscope="" itemtype="http://schema.org/BlogPosting">
   <!--{% if post.categories %}
@@ -28,7 +34,7 @@
   {% endif %} -->
   <a href="{{ post.sponsorlink }}">
     {% if post.featured-img %}
-      <figure class="post-card__thumb">
+      <figure class="post-card__thumb resize">
         <img
           src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/{{post.featured-img}}_placehold.jpg"
           data-srcset="{{ site.url }}{{ site.baseurl }}/assets/img/posts/{{post.featured-img}}_thumb.jpg, {{ site.url }}{{ site.baseurl }}/assets/img/posts/{{post.featured-img}}_thumb@2x.jpg 2x"
