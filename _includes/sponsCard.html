@@ -38,7 +38,22 @@
 }
 </style>
 
-<div class="medium" itemprop="blogPosts" itemscope="" itemtype="http://schema.org/BlogPosting"> <!-- should have "post-card" class -->
+
+ {% if post.tags contains "platinum" %}
+     {%assign sponsorType = "large"%}
+ {% endif %}
+ {% if post.tags contains "gold" %}
+     {%assign sponsorType = "large"%}
+ {% endif %}
+ {% if post.tags contains "silver" %}
+     {%assign sponsorType = "medium"%}
+ {% endif %}
+ {% unless post.tags contains "platinum" or post.tags contains "gold" or post.tags contains "silver" %}
+     {%assign sponsorType = "small"%}
+ {% endif %}
+
+<div class="medium" itemprop="blogPosts" itemscope="" itemtype="http://schema.org/BlogPosting"> <!-- used to have "post-card" class -->
+
   <!--{% if post.categories %}
     {% assign categories = post.categories %}
     <span class="post-card__label">
