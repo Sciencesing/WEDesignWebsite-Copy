@@ -4,8 +4,7 @@ layout: compress
 <!DOCTYPE html>
 <style>
 .cats {
-  width: 50%;
-  height: 50%;
+  border-color: red;
 }
 </style>
 <html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
@@ -41,7 +40,7 @@ layout: compress
     <main class="site__content" style="background-color: #f9f9f9">
 
       <div class="container">
-        <div class="page-content table">
+        <div class="page-content table cats">
                     
           {{ content }}
           <img
