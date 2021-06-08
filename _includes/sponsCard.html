@@ -38,7 +38,9 @@
 }
 </style>
 
-
+ {% if post.tags contains "platinumplus" %}
+     {%assign sponsorType = "xlarge"%}
+ {% endif %}
  {% if post.tags contains "platinum" %}
      {%assign sponsorType = "large"%}
  {% endif %}
