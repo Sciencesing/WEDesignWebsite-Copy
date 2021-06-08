@@ -108,8 +108,28 @@ layout: compress
            
       <section class="blog">
       
-      <!-- Platinum Sponsors -->
+      <!-- X-Platinum Sponsors -->
       <!-- Adding a header bar. Hopefully this looks alright-->
+      <div style="width: 100%; height: 20px; border-bottom: 1px solid black; text-align: center">
+        <span style="font-size: 40px; background-color: #f9f9f9; padding: 0 10px;">
+          Platinum Plus <!--Padding is optional-->
+        </span>
+      </div>
+        <div class="container">
+            <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
+
+              {% for post in site.posts %}
+                {% if post.tags contains "sponsor" and post.tags contains "platinumplus" %}
+                  {% include sponsCard.html %}
+                {% endif %}
+              {% endfor %}
+
+              <!-- {% include pagination.html %} -->
+            </div>
+          </div>
+        
+        
+      <!-- Platinum Sponsors -->
       <div style="width: 100%; height: 20px; border-bottom: 1px solid black; text-align: center">
         <span style="font-size: 40px; background-color: #f9f9f9; padding: 0 10px;">
           Platinum <!--Padding is optional-->
