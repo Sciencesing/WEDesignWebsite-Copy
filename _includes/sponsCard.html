@@ -50,7 +50,7 @@
  {% if post.tags contains "silver" %}
      {%assign sponsorType = "medium"%}
  {% endif %}
- {% unless post.tags contains "platinum" or post.tags contains "gold" or post.tags contains "silver" %}
+ {% unless post.tags contains "platinumplus" or post.tags contains "platinum" or post.tags contains "gold" or post.tags contains "silver" %}
      {%assign sponsorType = "small"%}
  {% endunless %}
 
