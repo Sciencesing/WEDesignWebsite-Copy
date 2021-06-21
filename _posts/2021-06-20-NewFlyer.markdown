@@ -1,0 +1,8 @@
+---
+layout: post
+title:  New Flyer
+date:   2021-06-20 21:02:35 +0300
+featured-img: NewFlyer_Logo
+sponsorlink: https://www.newflyer.com/
+tags: sponsor silver
+---
