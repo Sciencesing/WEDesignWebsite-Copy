@@ -1,13 +1,10 @@
 ---
 layout: post
-title: "Mechanical Division"
+title: Mechanical Division
 featured-img: mechanical_division
-permalink: mechanical_division.md
-categories: [Sample, Guides]
 tags: sponsor platinum
-
+categories: Sample, Guides
 ---
-
 
 Mech Division stuff
 
