@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mechanical Division"
-featured-img: shane-rounce-205187
+featured-img: mechanical_division
 permalink: mechanical_division.md
 categories: [Sample, Guides]
 tags: sponsor platinum
