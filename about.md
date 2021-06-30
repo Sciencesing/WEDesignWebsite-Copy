@@ -5,7 +5,7 @@ title: About Us
 permalink: /about/
 ---
 # HEY THERE!
-welcome to our website! It is so nice to have you here.
+welcome to our website! It is so nice to have you here. **Warning, there are a lot of heavy metal fans!**
 
 ## FUN FACT
 ### WE Design stands for Wind Energy Design, which *we* design! Get it?!
