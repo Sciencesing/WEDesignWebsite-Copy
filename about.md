@@ -5,7 +5,7 @@ title: About Us
 permalink: /about/
 ---
 # HEY THERE!
-Welcome to our website! It is so nice to have you here. **Warning, there are a lot of heavy metal fans!**
+Welcome to our website! It is so nice to have you here. **Fair warning, there are a quite a few heavy metal fans!**
 
 ### FUN FACT
 --------------------------------
