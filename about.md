@@ -1,13 +1,11 @@
 ---
 layout: page
-title: About
+title: About Us
 permalink: /about/
 ---
+# FUN FACT
+### WE Design stands for Wind Energy Design, which *we* design! Get it?
 
-Sleek is a modern Jekyll theme focused on speed performance & SEO best practices. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/) or simply read the guide on how to [get started](/getting-started)
+WE Design is a University of Manitoba, student-operated organization comprised of undergraduate and graduate students from mechanical, civil, electrical, computer, and biosystems engineering. We aim to promote green energy, by providing an opportunity for our students to develop professional skills in the designing, manufacturing, and project management of our small-scale wind turbine. 
 
-You can find the source code for the Jekyll new theme at:
-[sleek](https://github.com/janczizikow/sleek)
-
-You can find the source code for Jekyll at
-[jekyll](https://github.com/jekyll/jekyll)
+After successfully completing our second prototype, we took it to the Hanze University of Applied Sciences in Groningen, Netherlands, for the International Small Wind Turbine Contest (ISWTC) in July 2019. Being the only North American team to compete on this international stage, we seek to continually improve our design and hone our skills for a better team and for a better world.
