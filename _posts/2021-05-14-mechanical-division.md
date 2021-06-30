@@ -13,3 +13,5 @@ Some of these projects include the pitch mechanism, drivetrain, brake system, an
 ![alt text][blade_manufacturing_pic]
 
 [blade_manufacturing_pic]: https://github.com/Sciencesing/WEDesignWebsite/blob/JennifersTestBranch/assets/img/posts/blade_mold_prep.jpg "Team members prepping the blade molds for composite layup."
+
+Working together, we learn to design, and problem solve with the help of research, previous year's models and lots trial and error.
