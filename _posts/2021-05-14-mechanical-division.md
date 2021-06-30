@@ -2,6 +2,7 @@
 layout: post
 title: Mechanical Division
 featured-img: mechanical_division
+image: electrical_division
 tags: sponsor platinum
 categories: Sample, Guides
 ---
