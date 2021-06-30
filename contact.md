@@ -4,7 +4,8 @@ title: Contact
 permalink: /contact/
 ---
 
-#**Blown away* by our amazing team?
+# *Blown away* by our amazing team?
+
 
 
 ### Let us know what you are thinking.
