@@ -8,7 +8,7 @@
       {% endfor %}
     </span>
   {% endif %} -->
-  <a class="post-card__inner" href="{{ post.url | relative_url }}">
+  <a href="{{ post.url | relative_url }}">
     {% if post.featured-img %}
       <figure class="post-card__thumb">
         <img
