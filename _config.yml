@@ -33,7 +33,7 @@ navigation: # Navigation links
 
 tagline: >
   University of Manitoba's small scale wind turbine design team
-hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/Homepage_Turbines_Light_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: contact@windenergydesign.com # email for form submission
 
