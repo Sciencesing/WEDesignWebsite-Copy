@@ -2,7 +2,7 @@
 layout: post
 title: Mechanical Division
 featured-img: mechanical_division
-tags:
+tags: homepage
 categories: Sample, Guides
 ---
 
