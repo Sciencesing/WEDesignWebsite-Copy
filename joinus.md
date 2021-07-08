@@ -16,6 +16,4 @@ __And a nice bold font as well!__
 
 [I'm an inline-style link](https://www.google.com)
 
-[membership form](https://forms.gle/ZxkitSMiwVfc6Gpw7)
-
-"2020-2021 WE Design Membership Form"
+[membership form](https://forms.gle/ZxkitSMiwVfc6Gpw7 "2020-2021 WE Design Membership Form")
