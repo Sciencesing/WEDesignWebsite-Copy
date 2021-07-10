@@ -26,7 +26,7 @@ navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
-  - {name: 'Beta', link: '/beta'}
+  - {name: 'Administration', link: '/administration'}
   - {name: 'Important Dates', link: '/importantdates'}
   - {name: 'Join Us', link: '/joinus'}
   - {name: 'Sponsors', link: '/sponsors'}
