@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Administration
-permalink: /Administration/
+permalink: /administration/
 featured-img: shane-rounce-205187
 ---
 
