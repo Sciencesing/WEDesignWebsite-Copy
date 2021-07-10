@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Beta
-permalink: /beta/
+title: Administration
+permalink: /Administration/
 featured-img: shane-rounce-205187
 ---
 
-## Testing stuff
+## Administration
 
 _This will be italisized_
 
