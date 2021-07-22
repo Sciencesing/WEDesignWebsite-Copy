@@ -5,9 +5,9 @@ permalink: /joinus/
 featured-img: team2016
 ---
 
-Looking to join an engineering team this year, make new friends and applying 
+Looking to join an engineering team this year and make new friends? Come join our team, where you can learn and apply skills in hands-on experiences building and designing parts of a wind turbine. We'll have a blast!
 
- **Fair warning, there are a quite a few heavy metal fans!**
+ **Fair warning, there are a quite a few heavy metal fans here!**
 
 
 
