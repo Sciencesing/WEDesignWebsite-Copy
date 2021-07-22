@@ -3,7 +3,7 @@ layout: post
 title: Mechanical Division
 featured-img: mechanical_division
 tags: homepage
-categories: Sample, Guides
+
 ---
 
 Our mechanical division works on most of the physical structures of the wind turbine. 
