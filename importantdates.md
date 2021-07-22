@@ -2,7 +2,7 @@
 layout: newpost
 title: Important Dates
 permalink: /importantdates/
-featured-img: shane-rounce-205187
+featured-img: administrative_division_sm
 ---
 
 Information Session
