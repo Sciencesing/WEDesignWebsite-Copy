@@ -2,7 +2,7 @@
 layout: newpost
 title: Important Dates
 permalink: /importantdates/
-featured-img: administrative_division
+featured-img: drivetrain
 ---
 
 Information Session
