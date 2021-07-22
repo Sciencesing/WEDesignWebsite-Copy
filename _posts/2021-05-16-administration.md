@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Administrative Division"
-featured-img: sleek
+featured-img: administration_division
 
 tags: homepage
 
