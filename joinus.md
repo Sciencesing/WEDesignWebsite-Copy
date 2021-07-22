@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Join Us
 permalink: /joinus/
 featured-img: team2016
