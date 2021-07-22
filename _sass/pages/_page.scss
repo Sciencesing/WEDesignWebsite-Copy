@@ -36,6 +36,18 @@
     height: 12.5em;
   }
 
+  .hero--medium {
+  margin: 3.75rem auto 0;
+  min-height: 11.75rem;
+  width: 100%;
+  position: relative;
+  background-color: $dark-light;
+
+  @include breakpoint($lg) {
+    height: 12.5em;
+  }
+  
+  
   &::before {
     position: absolute;
     display: block;
