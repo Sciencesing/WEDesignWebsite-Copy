@@ -2,7 +2,7 @@
 layout: sponsors
 title: Sponsors
 permalink: /sponsors/
-featured-img: shane-rounce-205187
+featured-img: sponsors_page
 ---
 
 # Sponsorship Package
