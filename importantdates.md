@@ -1,5 +1,5 @@
 ---
-layout: newpost
+layout: post
 title: Important Dates
 permalink: /importantdates/
 
