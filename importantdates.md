@@ -1,5 +1,5 @@
 ---
-layout: sponsors
+layout: newpost
 title: Important Dates
 permalink: /importantdates/
 featured-img: shane-rounce-205187
