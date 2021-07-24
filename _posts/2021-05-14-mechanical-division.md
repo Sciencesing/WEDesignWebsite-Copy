@@ -10,9 +10,11 @@ Our mechanical division works on most of the physical structures of the wind tur
 
 Some of these projects include the pitch mechanism, drivetrain, brake system, and composite layup projects. Designing the components with the help of SolidWorks and Q-Blade.
 
-![alt text][blade_manufacturing_pic]
+![alt text][test]
 
-[blade_manufacturing_pic]: https://github.com/Sciencesing/WEDesignWebsite/blob/gh-pages/assets/img/posts/blade_mold_prep_md.jpg "Team members prepping the blade molds for composite layup."
+[test]: https://github.com/Sciencesing/WEDesignWebsite/blob/gh-pages/assets/img/posts/blade_mold_prep_md.jpg "Team members prepping the blade molds for composite layup."
+
+
 https://github.com/Sciencesing/WEDesignWebsite/blob/gh-pages/assets/img/posts/blade_mold_prep_md.jpg
 
 Working together, we learn to design, and problem solve with the help of research, previous year's models and lots trial and error.
