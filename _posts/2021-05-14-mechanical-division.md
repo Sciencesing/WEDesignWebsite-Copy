@@ -12,9 +12,9 @@ Some of these projects include the pitch mechanism, drivetrain, brake system, an
 
 ![alt text][test]
 
-[test]: https://github.com/Sciencesing/WEDesignWebsite/blob/gh-pages/assets/img/posts/blade_mold_prep_md.jpg
+[test]: {{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_mold_prep_md.jpg
 
-![alt text](https://github.com/Sciencesing/WEDesignWebsite/blob/gh-pages/assets/img/posts/blade_mold_prep_md.jpg "Test")
+![alt text]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_mold_prep_md.jpg "Test")
 
 
 https://github.com/Sciencesing/WEDesignWebsite/blob/gh-pages/assets/img/posts/blade_mold_prep_md.jpg
