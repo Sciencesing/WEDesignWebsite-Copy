@@ -20,5 +20,5 @@ Some of these projects include the pitch mechanism, drivetrain, brake system, an
 https://github.com/Sciencesing/WEDesignWebsite/blob/gh-pages/assets/img/posts/blade_mold_prep_md.jpg
 
 Working together, we learn to design, and problem solve with the help of research, previous year's models and lots trial and error.
-<img src="https://github.com/Sciencesing/WEDesignWebsite/blob/gh-pages/assets/img/posts/blade_mold_prep_md.jpg" alt="alt text">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_mold_prep_md.jpg">
 
