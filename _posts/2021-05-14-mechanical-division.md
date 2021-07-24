@@ -10,15 +10,8 @@ Our mechanical division works on most of the physical structures of the wind tur
 
 Some of these projects include the pitch mechanism, drivetrain, brake system, and composite layup projects. Designing the components with the help of SolidWorks and Q-Blade.
 
-![alt text][test]
+![Making the molds for the wind turbine blades][test]
 
-[test]: {{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_mold_prep_md.jpg
-
-![alt text]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_mold_prep_md.jpg "Test")
-
-
-https://github.com/Sciencesing/WEDesignWebsite/blob/gh-pages/assets/img/posts/blade_mold_prep_md.jpg
+[test]: {{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_mold_prep_md.jpg "Making the molds for this wind turbine blades"
 
 Working together, we learn to design, and problem solve with the help of research, previous year's models and lots trial and error.
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_mold_prep_md.jpg">
-
