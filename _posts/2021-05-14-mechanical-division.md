@@ -14,6 +14,8 @@ Some of these projects include the pitch mechanism, drivetrain, brake system, an
 
 [test]: https://github.com/Sciencesing/WEDesignWebsite/blob/gh-pages/assets/img/posts/blade_mold_prep_md.jpg "Team members prepping the blade molds for composite layup."
 
+![alt text](https://github.com/Sciencesing/WEDesignWebsite/blob/gh-pages/assets/img/posts/blade_mold_prep_md.jpg "Test")
+
 
 https://github.com/Sciencesing/WEDesignWebsite/blob/gh-pages/assets/img/posts/blade_mold_prep_md.jpg
 
