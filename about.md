@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: newpage
 featured_img: 2016team
 title: About Us
 permalink: /about/
