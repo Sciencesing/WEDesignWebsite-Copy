@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: newpage
 title: Important Dates
 permalink: /importantdates/
 featured-img: sponsors_page
