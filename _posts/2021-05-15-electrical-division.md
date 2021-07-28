@@ -7,4 +7,4 @@ tags: homepage
 ---
 
 
-Electrical Division stuff
+Our electrical division has the opportunity for hands-on experience using industry loading software such as Altrium. They design, build and test a number of the behind the scenes components that make our wind turbines work, such as PCB and power generations. New members can join in and learn how to design a control system, how to use a PI Controller, as well as the micro-controller programming on Python and C++.
