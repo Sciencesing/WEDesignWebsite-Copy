@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: newpage
 title: Contact
+featured-img: sponsors_page
 permalink: /contact/
 ---
 
