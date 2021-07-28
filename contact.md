@@ -1,8 +1,8 @@
 ---
 layout: newpage
 title: Contact
-featured-img: sponsors_page
 permalink: /contact/
+featured-img: sponsors_page
 ---
 
 # *Blown away* by our amazing team?
