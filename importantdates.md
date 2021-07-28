@@ -2,7 +2,7 @@
 layout: post
 title: Important Dates
 permalink: /importantdates/
-
+featured-img: sponsors_page
 ---
 # Only a draft at the minute.
 
