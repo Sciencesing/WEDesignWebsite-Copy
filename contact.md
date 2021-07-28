@@ -2,7 +2,7 @@
 layout: newpage
 title: Contact
 permalink: /contact/
-featured-img: sponsors_page
+featured-img: Contact_Us
 ---
 
 # *Blown away* by our amazing team?
