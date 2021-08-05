@@ -12,6 +12,7 @@ Our electrical division has the opportunity for hands-on experience using indust
 A wind turbine's elctrical components are usually protected within the nacelle. 
 
 The generator 
-      ![PCB circuit board][test]
+
+![PCB circuit board][test]
 
 [test]: {{ site.url }}{{ site.baseurl }}/assets/img/posts/pcb1.jpg "PCB board"
