@@ -16,3 +16,8 @@ The generator
 ![PCB circuit board][test]
 
 [test]: {{ site.url }}{{ site.baseurl }}/assets/img/posts/PCB1.jpg "PCB board"
+
+
+![PCB circuit board][test]
+
+[test]: {{ site.url }}{{ site.baseurl }}/assets/img/posts/PCB2.jpg "PCB board"
