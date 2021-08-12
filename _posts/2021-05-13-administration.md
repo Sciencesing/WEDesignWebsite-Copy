@@ -8,7 +8,7 @@ tags: homepage
 ---
 
 
-Our administrative division works behind the scenes on the less technical but equal important tasks.
+Our administrative division works behind the scenes on the less technical but equal important tasks.  
 These tasks include:
   * Sponsorship organization
   * Finance management
