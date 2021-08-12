@@ -22,7 +22,7 @@ Drivetrain - The mechanical system that connects the rotor system to the power g
 
 # Current Drivetrain Projects
 
-..* Complete the redesign of gearbox.
+* Complete the redesign of gearbox.
 
 ..* Complete the redesign of emergency brake system.
 
