@@ -41,7 +41,7 @@ Working together, we learn to design, and problem solve with the help of researc
 
 *Frame - The exterior shell of the wind turbine.*  
 *Tower - The structure of the wind turbine.*  
-*Nacelle - *   
+*Nacelle - *  
 
 ### Current Frame and Tower Projects
 
