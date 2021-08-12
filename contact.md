@@ -11,7 +11,7 @@ featured-img: Contact_Us
 
 ### Let us know what you are thinking.
 
-Fill in the form or [email us](mailto:{{site.email}}) at contact@windenergydesign.com to discuss joining the team, to hear about our project, or sponsor options!!
+Fill in the form or [email us](mailto:{{site.email}}) to discuss joining the team, to hear about our project, or sponsor options!!
 
 {% include form.html %}
 
