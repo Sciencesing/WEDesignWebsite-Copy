@@ -25,9 +25,20 @@ A wind turbine's elctrical components usually reside within the nacelle.
 
 * Implement a passive control algorithm.
 
+### Wind Turbine Simulator
+
+* Develop a graphical simulation to model dynamic behaviour of a wind turbine.
+
+### Possible Harware Projects
+
+* Complete the current power board.
+
+* Iterate improvements on the current hardware.
+
+
 The generator 
 <p align="center">
-  <img src="{{site.url}}{{site.baseurl}}/assets/img/posts/PCB1.jpg">
+  <img src="{{site.url}}{{site.baseurl}}/assets/img/posts/PCB1_xs.jpg">
   <br><br>
-  <img src="{{site.url}}{{site.baseurl}}/assets/img/posts/PCB2.jpg">
+  <img src="{{site.url}}{{site.baseurl}}/assets/img/posts/PCB2_thumb.jpg">
 </p>
