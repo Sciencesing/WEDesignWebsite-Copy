@@ -34,7 +34,9 @@ Working together, we learn to design, and problem solve with the help of researc
 ### Current Rotor System Projects
 
 * Improve weather resistance of pitch mechanism.
+
 * Improve sustainaility of manufacturing of pitch mechanism.
+
 * Lighten design of pitch mechanism.
 
 *Frame - The exterior shell of the wind turbine.*  
@@ -44,7 +46,9 @@ Working together, we learn to design, and problem solve with the help of researc
 ### Current Frame and Tower Projects
 
 * Design a new, lighter display tower.
+
 * Design a new nacelle that completely encloses internal mechanisms and systems.
+
 * Improve weather resistance of nacelle.
 
 
