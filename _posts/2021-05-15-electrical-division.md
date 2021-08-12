@@ -28,13 +28,5 @@ A wind turbine's elctrical components usually reside within the nacelle.
 The generator 
 <p align="center">
   <img src="{{site.url}}{{site.baseurl}}/assets/img/posts/PCB1.jpg">
+  <img src="{{site.url}}{{site.baseurl}}/assets/img/posts/PCB2.jpg">
 </p>
-![PCB circuit board][test]
-
-[test]: {{ site.url }}{{ site.baseurl }}/assets/img/posts/PCB1.jpg "PCB board"
-
-
-![PCB circuit board 2][test2]
-
-[test2]: {{ site.url }}{{ site.baseurl }}/assets/img/posts/PCB2.jpg "PCB board 2"
-
