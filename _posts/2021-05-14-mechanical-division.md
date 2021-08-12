@@ -48,8 +48,9 @@ Working together, we learn to design, and problem solve with the help of researc
 * Improve weather resistance of nacelle.
 
 
-
+<p align="center">
 ![Making the molds for the wind turbine blades][test]
 
 [test]: {{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_mold_prep_smaller.jpg "Making the molds for this wind turbine blades"
+</p>
 
