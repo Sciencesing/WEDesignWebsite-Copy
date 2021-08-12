@@ -30,8 +30,8 @@ Working together, we learn to design, and problem solve with the help of researc
 
 * Design sustainable manufacturing.
 
-*Rotor System - The system that converts wind energy into mechanical energy (torque, etc.).
-Pitch Mechanism - *
+*Rotor System - The system that converts wind energy into mechanical energy (torque, etc.).*
+*Pitch Mechanism - *
 
 ### Current Rotor System Projects
 
@@ -39,9 +39,9 @@ Pitch Mechanism - *
 * Improve sustainaility of manufacturing of pitch mechanism.
 * Lighten design of pitch mechanism.
 
-*Frame - The exterior shell of the wind turbine.
-Tower - The structure of the wind turbine.
-Nacelle - * 
+*Frame - The exterior shell of the wind turbine.*
+*Tower - The structure of the wind turbine.*
+*Nacelle - * 
 
 ### Current Frame and Tower Projects
 
