@@ -27,13 +27,14 @@ A wind turbine's electrical components usually reside within the nacelle.
 
 ### Wind Turbine Simulator
 
-* Develop a graphical simulation to model dynamic behaviour of a wind turbine.
+* Develop a graphical simulation to model dynamic behaviour of a wind turbine.   
 
 
 <p align="center">
   <img src="{{site.url}}{{site.baseurl}}/assets/img/posts/Hardware_placehold.jpg">
   <br><br>
 </p>   
+
 ### Possible Harware Projects
 
 * Complete the current power board.
