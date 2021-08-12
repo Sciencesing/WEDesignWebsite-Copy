@@ -9,7 +9,21 @@ tags: homepage
 
 Our electrical division has the opportunity for hands-on experience using industry loading software such as Altrium. They design, build and test a number of the behind the scenes components that make our wind turbines work, such as PCB and power generations. New members can join in and learn how to design a control system, how to use a PI Controller, as well as the micro-controller programming on Python and C++.
 
-A wind turbine's elctrical components are usually protected within the nacelle. 
+A wind turbine's elctrical components usually reside within the nacelle. 
+
+### Design and simulation projects
+
+* Redesign the Rectifier Controller.
+
+* Optimize the Boost Controller component values and frequency.
+
+* Reduce heat losses of the power traces on the PCB.
+
+### Software projects
+
+* Control System Software – interfacing the control board with all sensors and actuators, monitor data. This will likely be done in Python.
+
+* Implement a passive control algorithm.
 
 The generator 
 
@@ -18,6 +32,6 @@ The generator
 [test]: {{ site.url }}{{ site.baseurl }}/assets/img/posts/PCB1.jpg "PCB board"
 
 
-![PCB circuit board][test]
+![PCB circuit board 2][test2]
 
-[test]: {{ site.url }}{{ site.baseurl }}/assets/img/posts/PCB2.jpg "PCB board"
+[test2]: {{ site.url }}{{ site.baseurl }}/assets/img/posts/PCB2.jpg "PCB board 2"
