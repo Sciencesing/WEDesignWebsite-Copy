@@ -10,7 +10,6 @@ Looking to be a part of an engineering team this year and make new friends? Come
  **Fair warning, there are a quite a few heavy metal fans here!**
 
 ### How to join
-=====
 
 1. Contact us by filling in the [contact form](permalink: https://windenergydesign.com/contact) here on this website, or [email us](mailto:{{site.email}}).
 2. Fill out our [membership form](https://forms.gle/ZxkitSMiwVfc6Gpw7 "2020-2021 WE Design Membership Form") !
