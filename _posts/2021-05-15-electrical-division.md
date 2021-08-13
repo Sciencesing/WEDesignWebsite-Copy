@@ -34,7 +34,7 @@ A wind turbine's electrical components usually reside within the nacelle.
   <br><br>
 </p> 
 
-### Possible Harware Projects
+### Possible Hardware Projects
 
 * Complete the current power board.           
   
