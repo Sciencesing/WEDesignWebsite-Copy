@@ -1,5 +1,5 @@
 ---
-layout: newpage
+layout: page
 title: Contact
 permalink: /contact/
 featured-img: Contact_Us
