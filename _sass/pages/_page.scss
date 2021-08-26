@@ -41,7 +41,7 @@
   
   
   &::before {
-    position: absolute;
+    position: static;
     display: block;
     content: "";
     top: 0;
