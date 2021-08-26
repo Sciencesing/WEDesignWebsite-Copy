@@ -29,7 +29,8 @@
   margin: auto;
   min-height: 8.75rem;
   width: 100%;
-  position: static;
+  position: absolute;
+  background-color: $dark-light;
   background-repeat: no-repeat;
   background-position: 50%;
   background-size: cover;
