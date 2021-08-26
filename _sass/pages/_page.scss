@@ -29,7 +29,7 @@
   margin: auto;
   min-height: 8.75rem;
   width: 100%;
-  position: absolute;
+  position: center;
   background-color: $dark-light;
   background-repeat: no-repeat;
   background-position: 50%;
@@ -44,7 +44,7 @@
   
   
   &::before {
-    position: static;
+    position: center;
     display: block;
     content: "";
     top: 0;
