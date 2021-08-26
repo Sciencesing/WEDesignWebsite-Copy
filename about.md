@@ -1,6 +1,6 @@
 ---
 layout: newpage
-featured_img: 2016team
+featured_img: Contact_Us1
 title: About Us
 permalink: /about/
 ---
