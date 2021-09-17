@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sustainability Division"
-featured-img: electrical_division
+featured-img: sustainability
 tags: homepage
 
 ---
