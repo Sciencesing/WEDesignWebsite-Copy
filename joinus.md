@@ -3,7 +3,7 @@ layout: newpage
 title: Join Us
 permalink: /joinus/
 driveId: 1IMn2X9iUNPh420PbOKZFLxISnDZkKMfA/preview
-featured-img: team2016
+featured-img: join_us
 ---
 
 {% include googleDrivePlayer.html id=page.driveId %}
