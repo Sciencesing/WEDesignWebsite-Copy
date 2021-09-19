@@ -2,7 +2,7 @@
 layout: sponsors
 title: Sponsors
 permalink: /sponsors/
-featured-img: sponsors_page
+featured-img: sponsors
 ---
 
 # Sponsorship Package
