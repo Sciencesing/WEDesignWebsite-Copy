@@ -2,7 +2,7 @@
 layout: newpage
 title: About Us
 permalink: /about/
-featured-img: join_us
+featured-img: about_us
 ---
 
 # HEY THERE!
