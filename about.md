@@ -2,7 +2,7 @@
 layout: newpage
 title: About Us
 permalink: /about/
-featured_img: about_us
+featured_img: sponsors
 ---
 # HEY THERE!
 Welcome to our website! It is so nice to have you here.
