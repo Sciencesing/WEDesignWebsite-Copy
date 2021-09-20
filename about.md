@@ -1,8 +1,8 @@
 ---
 layout: newpage
-featured_img: about_us
 title: About Us
 permalink: /about/
+featured_img: about_us
 ---
 # HEY THERE!
 Welcome to our website! It is so nice to have you here.
