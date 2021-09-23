@@ -5,6 +5,13 @@ featured-img: mechanical_division
 tags: homepage
 
 ---
+<p align="center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/wind_turbine_diagram.png">
+</p>
+Image Source:energy.gov
+
+Check out an interactable turbine diagram at https://www.energy.gov/articles/how-wind-turbine-works.
+
 
 Our mechanical division works on most of the physical structures of the wind turbine. 
 
@@ -19,6 +26,12 @@ Working together, we learn to design, and problem solve with the help of researc
 
 *Drivetrain - The mechanical system that connects the rotor system to the power generation.*  
 
+<p align="center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/drivetrain_diagram.png">
+</p>
+Image Source: Qian, Ma, Zhang, https://www.mdpi.com/1996-1073/10/10/1583/xml.
+
+
 ### Current Drivetrain Projects
 
 * Complete the redesign of gearbox.
@@ -30,7 +43,17 @@ Working together, we learn to design, and problem solve with the help of researc
 * Design sustainable manufacturing.
 
 *Rotor System - The system that converts wind energy into mechanical energy (torque, etc.).*  
-*Pitch Mechanism - *  
+*Pitch Mechanism - Operates and controlls the angle of the turbine's blades. *  
+
+<p align="center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/drivetrain.jpg">
+</p>
+Our 2019 drivetrain model.
+
+<p align="center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/drivetrain_back.jpg">
+</p>
+This angle of our drivetrain shows where the three turbine blades will be connected to the hub.
 
 ### Current Rotor System Projects
 
@@ -41,8 +64,8 @@ Working together, we learn to design, and problem solve with the help of researc
 * Lighten design of pitch mechanism.
 
 *Frame - The exterior shell of the wind turbine.*  
-*Tower - The structure of the wind turbine.*  
-*Nacelle - *  
+*Tower - The structure holding up the of the wind turbine.*  
+*Nacelle - A container that houses most of the wind turbine components.*  
 
 ### Current Frame and Tower Projects
 
@@ -52,8 +75,14 @@ Working together, we learn to design, and problem solve with the help of researc
 
 * Improve weather resistance of nacelle.
 
+### Current Blade Projects
+
+* Manufacture blades using new process and design
 
 <p align="center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_mold_prep_smaller.jpg">
 </p>
 
+
+Interested in learning more about how the components of a wind turbine come together to create energy? 
+Check out https://www.energy.gov/eere/wind/how-wind-turbine-works-text-version for some cool diagrams!
