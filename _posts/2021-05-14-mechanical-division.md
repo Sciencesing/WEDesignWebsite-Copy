@@ -101,10 +101,6 @@ Freshly cut molds.
 </p>
 Priming the molds. (2019)
 
-<p align="center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_mold_prep_smaller.jpg">
-</p>
-Priming the molds. (2018)
 
 <p align="center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_4.jpg">
