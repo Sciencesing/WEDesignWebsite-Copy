@@ -109,10 +109,6 @@ Priming the molds. (2018)
 <p align="center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_4.jpg">
 </p>
-
-<p align="center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_4.jpg">
-</p>
 Polishing the molds. 
 
 
