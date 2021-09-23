@@ -86,20 +86,29 @@ This angle of our drivetrain shows where the three turbine blades will be connec
 </p>
 Design of the blade molds.
 
+
+
+
 <p align="center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_1.jpg">
 </p>
 Preparing the wood for the CNC machine.
+
+
+
 
 <p align="center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_2.jpg">
 </p>
 Freshly cut molds.
 
+
+
 <p align="center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_3.jpg">
 </p>
-Priming the molds. (2019)
+Priming the molds.
+
 
 
 <p align="center">
