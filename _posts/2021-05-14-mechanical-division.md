@@ -10,7 +10,7 @@ tags: homepage
 </p>
 Image Source:energy.gov
 
-Check out an interactable turbine diagram at https://www.energy.gov/articles/how-wind-turbine-works.
+Check out an interactable turbine diagram at <https://www.energy.gov/articles/how-wind-turbine-works>.
 
 
 Our mechanical division works on most of the physical structures of the wind turbine. 
@@ -85,4 +85,4 @@ This angle of our drivetrain shows where the three turbine blades will be connec
 
 
 Interested in learning more about how the components of a wind turbine come together to create energy? 
-Check out https://www.energy.gov/eere/wind/how-wind-turbine-works-text-version for some cool diagrams!
+Check out <https://www.energy.gov/eere/wind/how-wind-turbine-works-text-version> for some cool diagrams!
