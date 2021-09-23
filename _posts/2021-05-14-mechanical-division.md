@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mechanical Division
+driveId: 1IMn2X9iUNPh420PbOKZFLxISnDZkKMfA/preview
 featured-img: mechanical_division
 tags: homepage
 
@@ -8,7 +9,7 @@ tags: homepage
 <p align="center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/wind_turbine_diagram.png">
 </p>
-Image Source:energy.gov
+> Image Source:energy.gov
 
 Check out an interactable turbine diagram at <https://www.energy.gov/articles/how-wind-turbine-works>.
 
@@ -29,7 +30,7 @@ Working together, we learn to design, and problem solve with the help of researc
 <p align="center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/drivetrain_diagram.png">
 </p>
-Image Source: Qian, Ma, Zhang, https://www.mdpi.com/1996-1073/10/10/1583/xml.
+> Image Source: Qian, Ma, Zhang, https://www.mdpi.com/1996-1073/10/10/1583/xml.
 
 
 ### Current Drivetrain Projects
@@ -48,12 +49,12 @@ Image Source: Qian, Ma, Zhang, https://www.mdpi.com/1996-1073/10/10/1583/xml.
 <p align="center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/drivetrain.jpg">
 </p>
-Our 2019 drivetrain model.
+> Our 2019 drivetrain model.
 
 <p align="center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/drivetrain_back.jpg">
 </p>
-This angle of our drivetrain shows where the three turbine blades will be connected to the hub.
+> This angle of our drivetrain shows where the three turbine blades will be connected to the hub.
 
 ### Current Rotor System Projects
 
@@ -66,6 +67,10 @@ This angle of our drivetrain shows where the three turbine blades will be connec
 *Frame - The exterior shell of the wind turbine.*  
 *Tower - The structure holding up the of the wind turbine.*  
 *Nacelle - A container that houses most of the wind turbine components.*  
+
+
+{% include googleDrivePlayer.html id=page.driveId %}
+> Our mini wind turbine in action!
 
 ### Current Frame and Tower Projects
 
@@ -84,7 +89,7 @@ This angle of our drivetrain shows where the three turbine blades will be connec
 <p align="center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_design.jpg">
 </p>
-Design of the blade molds.
+> Design of the blade molds.
 
 
 
@@ -92,7 +97,7 @@ Design of the blade molds.
 <p align="center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_1.jpg">
 </p>
-Preparing the wood for the CNC machine.
+> Preparing the wood for the CNC machine.
 
 
 
@@ -100,21 +105,21 @@ Preparing the wood for the CNC machine.
 <p align="center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_2.jpg">
 </p>
-Freshly cut molds.
+> Freshly cut molds.
 
 
 
 <p align="center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_3.jpg">
 </p>
-Priming the molds.
+> Priming the molds.
 
 
 
 <p align="center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_4.jpg">
 </p>
-Polishing the molds. 
+> Polishing the molds. 
 
 
 Interested in learning more about how the components of a wind turbine come together to create energy? 
