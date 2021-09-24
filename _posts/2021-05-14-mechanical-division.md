@@ -95,7 +95,9 @@ Working together, we learn to design, and problem solve with the help of researc
 
 
 <p align="center">
+  <div>
   <br>
+  </div>
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_1.jpg">
 </p>
 > Preparing the wood for the CNC machine.
