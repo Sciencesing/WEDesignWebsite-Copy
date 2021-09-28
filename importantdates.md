@@ -4,13 +4,24 @@ title: Important Dates
 permalink: /importantdates/
 featured-img: important_dates
 ---
-# Only a draft at the minute.
+*Don't get swept up with deadlines, add these dates to your calender!*
 
-Information Session
+WE Design Information Session **September 29, 2021 at 6pm on Google Meet**.
 
-New members application
 
-Team wide meeting
+## **Deadlines**
 
-**Deadlines**
-Competition
+Engineering Geoscientists Manitoba Renewal/Application for 2021-2022 **due October 1, 2021**.
+
+Team Registration/re-registration form **due November 1, 2021**.
+
+Team Membership Fee **due November 1, 2021**.*
+
+* This year's membership fee is 20$ which provides the student with a student key for SolidWorks, Altium, and other required softwares used by the team. 
+The membership fee must be paid by November 1st to be in good standing, but recruits can participate in club activities prior to committing to the team for the year. 
+
+*Team shirts are required* for participation in competition events (virtual or in-person). 
+For members wanting a shirt, the cost is 30$. An order will be organized towards the beginning of the winter term. 
+For payments please email *contact@windenergydesign.com* with the 20$ registration fee.
+
+
