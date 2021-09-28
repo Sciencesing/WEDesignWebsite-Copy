@@ -8,6 +8,8 @@ featured-img: important_dates
 
 
 
+
+
 ## **Upcoming Events**
 
 WE Design Information Session **September 29, 2021 at 6pm on Google Meet**.
@@ -21,7 +23,7 @@ Team [Membership form](https://forms.gle/shpFyYurkM1quY3K7 "2021-2022 WE Design 
 
 Team Membership Fee **due November 1, 2021**.*
 
-* This year's membership fee is 20$ which provides the student with a student key for SolidWorks, Altium, and other required softwares used by the team. 
+⋅⋅⋅ * This year's membership fee is 20$ which provides the student with a student key for SolidWorks, Altium, and other required softwares used by the team. 
 The membership fee must be paid by November 1st to be in good standing, but recruits can participate in club activities prior to committing to the team for the year. 
 
 *Team shirts are required* for participation in competition events (virtual or in-person). 
