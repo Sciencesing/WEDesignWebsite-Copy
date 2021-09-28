@@ -4,7 +4,7 @@ title: Important Dates
 permalink: /importantdates/
 featured-img: important_dates
 ---
-#*Don't get swept up with deadlines, add these dates to your calender!*
+# *Don't get swept up with deadlines, add these dates to your calender!*
 
 ## **Upcoming Events**
 
