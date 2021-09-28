@@ -4,7 +4,9 @@ title: Important Dates
 permalink: /importantdates/
 featured-img: important_dates
 ---
-*Don't get swept up with deadlines, add these dates to your calender!*
+#*Don't get swept up with deadlines, add these dates to your calender!*
+
+## **Upcoming Events**
 
 WE Design Information Session **September 29, 2021 at 6pm on Google Meet**.
 
