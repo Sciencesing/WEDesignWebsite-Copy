@@ -15,7 +15,7 @@ WE Design Information Session **September 29, 2021 at 6pm on Google Meet**.
 
 Engineering Geoscientists Manitoba Renewal/Application for 2021-2022 **due October 1, 2021**.
 
-Team Registration/re-registration form **due November 1, 2021**.
+Team [Membership form](https://forms.gle/shpFyYurkM1quY3K7 "2021-2022 WE Design Membership Form")  **due November 1, 2021**.
 
 Team Membership Fee **due November 1, 2021**.*
 
