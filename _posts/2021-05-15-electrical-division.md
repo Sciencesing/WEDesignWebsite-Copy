@@ -39,6 +39,6 @@ A wind turbine's electrical components usually reside within the nacelle, the bo
 * Iterate improvements on the current hardware.
 
 <p align="center">
-  <img src="{{site.url}}{{site.baseurl}}/assets/img/posts/PCB-03-Bottom-Layer.png">
+  <img src="{{site.url}}{{site.baseurl}}/assets/img/posts/PCB-03-Bottom-Layer.PNG">
 </p>
 
