@@ -24,8 +24,8 @@ A wind turbine's electrical components usually reside within the nacelle, the bo
 
 <p align="center">
   <img src="{{site.url}}{{site.baseurl}}/assets/img/posts/Rectifier overview schematic.PNG" height="100">
-  <p>Rectifier overview schematic</p>
 </p>
+<p align="center">Rectifier overview schematic</p>
 
 
 
