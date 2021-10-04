@@ -18,6 +18,10 @@ A wind turbine's electrical components usually reside within the nacelle, the bo
 
 * Redesign the Rectifier Controller.
 
+<p align="center">
+  <img src="{{site.url}}{{site.baseurl}}/assets/img/posts/Rectifier overview schematic.PNG" height="100">
+</p>
+
 * Optimize the Boost Controller component values and frequency.
 
 * Reduce heat losses of the power traces on the PCB.
