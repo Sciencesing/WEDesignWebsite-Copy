@@ -11,7 +11,7 @@ Our electrical division has the opportunity for hands-on experience using indust
 
 A wind turbine's electrical components usually reside within the nacelle, the body of the wind turbine. 
 <p align="center">
-  <img src="{{site.url}}{{site.baseurl}}/assets/img/posts/PCB2_xs.jpg" alt="Main PCB" style="width:100">
+  <img src="{{site.url}}{{site.baseurl}}/assets/img/posts/PCB2_xs.jpg" alt="Main PCB" width="100">
 </p>
 
 ### Design and simulation projects
