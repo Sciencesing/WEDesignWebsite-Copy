@@ -31,7 +31,7 @@ A wind turbine's electrical components usually reside within the nacelle, the bo
 
 ### Software projects
 
-* Control System Software – interfacing the control board with all sensors and actuators, monitor data. This will likely be done in Python.
+* Control System Software – interfacing the control board with all sensors and actuators, monitor data. This will likely be done in Python, but may also be done in another language like C or C++.
 
 * Implement a passive control algorithm.
 
