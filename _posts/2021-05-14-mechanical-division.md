@@ -2,7 +2,7 @@
 layout: post
 title: Mechanical Division
 driveId: 1IMn2X9iUNPh420PbOKZFLxISnDZkKMfA/preview
-featured-img: mechanical_division
+featured-img: pitch_mechanism_2019
 tags: homepage
 
 ---
@@ -79,6 +79,11 @@ Working together, we learn to design, and problem solve with the help of researc
 * Design a new nacelle that completely encloses internal mechanisms and systems.
 
 * Improve weather resistance of nacelle.
+
+<p align="center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/mechanical_division">
+</p>
+> A rendering of our 2019 turbine model design.
 
 ### Current Blade Projects
 
