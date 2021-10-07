@@ -30,4 +30,4 @@ The membership fee must be paid by November 1st to be in good standing, but recr
 For members wanting a shirt, the cost is 30$. An order will be organized towards the beginning of the winter term. 
 For payments please email *contact@windenergydesign.com* with the 20$ registration fee.
 
-
+[International Small Wind Turbine Competition (ISWTC)](https://www.hanze.nl/eng/education/engineering/school-of-engineering/organisation/contest/international-small-wind-turbine-contest/contest/iswtc/iswtc-history) occurs in the **summer of 2022**
