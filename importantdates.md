@@ -58,9 +58,6 @@ For payments please email *contact@windenergydesign.com* with the 20$ registrati
 
 
 <p align="center">
-49
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/ISWTC(2020).jpg">
-50
 </p>
-51
 > Attending the ISWTC online (summer 2020).
