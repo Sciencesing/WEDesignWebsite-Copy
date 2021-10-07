@@ -81,7 +81,7 @@ Working together, we learn to design, and problem solve with the help of researc
 * Improve weather resistance of nacelle.
 
 <p align="center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/mechanical_division">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/full_render_2019">
 </p>
 > A rendering of our 2019 turbine model design.
 
