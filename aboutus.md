@@ -1,7 +1,7 @@
 ---
 layout: newpage
 title: About Us
-permalink: /about/
+permalink: /aboutus/
 featured-img: about_us
 ---
 
