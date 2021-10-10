@@ -14,7 +14,8 @@ WE Design is a University of Manitoba, student-operated organization comprised o
 <br>
 Below you can see one of our earlier prototypes being tested out in the field!
 {% include googleDrivePlayer.html id=page.driveId %}
-
+<br>
+<br>
 
 After successfully completing our second prototype, we took it to the Hanze University of Applied Sciences in Groningen, Netherlands, for the International Small Wind Turbine Contest (ISWTC) in July 2019. Being the only North American team to compete on this international stage, we seek to continually improve our design and hone our skills for a better team and for a better world.
 
