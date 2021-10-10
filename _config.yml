@@ -26,7 +26,7 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
-  - {name: 'About', link: '/about'}
+  - {name: 'About Us', link: '/aboutus'}
   - {name: 'Contact', link: '/contact'}
   - {name: 'Important Dates', link: '/importantdates'}
   - {name: 'Join Us', link: '/joinus'}
