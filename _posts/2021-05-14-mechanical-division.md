@@ -81,7 +81,7 @@ Working together, we learn to design, and problem solve with the help of researc
 * Improve weather resistance of nacelle.
 
 <p align="center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/full_render_2019">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/full_render_2019.jpg">
 </p>
 > A rendering of our 2019 turbine model design.
 
@@ -90,6 +90,10 @@ Working together, we learn to design, and problem solve with the help of researc
 * Manufacture blades using new process and design
 
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_1.jpg)[Design of the blade molds.] |  ![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_2.jpg) [Preparing the wood for the CNC machine.]
+![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_3.jpg) [Priming the molds.] |  ![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_4.jpg) [Polishing the molds. ]
 
 <p align="center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_design.jpg">
