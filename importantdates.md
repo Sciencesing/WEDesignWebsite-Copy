@@ -60,7 +60,7 @@ For payments please email *contact@windenergydesign.com* with the 20$ registrati
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/ISWTC(2020).jpg)  |  ![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/ISWTC(2020).jpg)
+![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/ISWTC(2020).jpg) caption? |  ![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/ISWTC(2020).jpg)
 ![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/ISWTC(2020).jpg)  |  ![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/ISWTC(2020).jpg)
 
 
