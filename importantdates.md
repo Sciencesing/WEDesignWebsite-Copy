@@ -33,43 +33,23 @@ For payments please email *contact@windenergydesign.com* with the 20$ registrati
 [International Small Wind Turbine Competition (ISWTC)](https://www.hanze.nl/eng/education/engineering/school-of-engineering/organisation/contest/international-small-wind-turbine-contest/contest/iswtc/iswtc-history) occurs in the **summer of 2022**
 
 
-<p align="left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/ISWTC_1.jpg">
-</p>
-> Presenting our mini wind turbine at the ISWTC (summer 2019).
 
 
-<p align="center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/ISWTC_2.jpg">
-</p>
-> Setting up our turbine at competition (summer 2019).
-
-
-<p align="right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/ISWTC_3.jpg">
-</p>
-> Monitoring our turbine's data while competing (summer 2019).
-
-
-<p align="left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/ISWTC_4.jpg">
-</p>
-> Our wind turbine set up for competition in the ISWTC wind tunnel (summer 2019).
-
-
-
-Solarized dark             |  Solarized Ocean
+Some of our events| at competition
 :-------------------------:|:-------------------------:
-![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/ISWTC(2020).jpg) caption? |  ![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/ISWTC(2020).jpg)
-![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/ISWTC(2020).jpg)  |  ![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/ISWTC(2020).jpg)
-
+![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/ISWTC_1.jpg) 
+Presenting our mini wind turbine at the ISWTC (summer 2019).
+|  ![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/ISWTC_2.jpg)
+Setting up our turbine at competition (summer 2019)
+![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/ISWTC_3.jpg)  
+Monitoring our turbine's data while competing (summer 2019).
+| ![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/ISWTC_4.jpg)
+Our wind turbine set up for competition in the ISWTC wind tunnel (summer 2019).
 
 <p align="center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/ISWTC(2020).jpg">
-</p>
-> Attending the ISWTC online (summer 2020).
+   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/ISWTC(2020).jpg)">
+  </p>
+Attending the ISWTC online (summer 2020)
+  
 
-<section>
-    <img width="300" src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/ISWTC(2020).jpg">
-    <img width="300" src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/ISWTC(2020).jpg">
-</section>
+
