@@ -48,10 +48,10 @@ Working together, we learn to design, and problem solve with the help of researc
 
 
 <section>
-    <img width="300" src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/drivetrain.jpg" [Our 2019 drivetrain model.]>
-    <img width="300" src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/drivetrain_back.jpg" [This angle of our drivetrain shows where the three turbine blades will be connected to the hub.]>
+    <img width="300" src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/drivetrain.jpg">
+    <img width="300" src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/drivetrain_back.jpg" >
 </section>
-
+[Our 2019 drivetrain model.] and [This angle of our drivetrain shows where the three turbine blades will be connected to the hub.]
 
 ### Current Rotor System Projects
 
