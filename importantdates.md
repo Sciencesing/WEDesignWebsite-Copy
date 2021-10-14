@@ -58,15 +58,9 @@ For payments please email *contact@windenergydesign.com* with the 20$ registrati
 
 
 
-You can use these html tags for this,
-
-<table>
-  <tr>
-    <td> <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/ISWTC(2020).jpg"" alt="1" width = 360px height = 640px ></td>
-
-    <td> <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/ISWTC(2020).jpg"" alt="2" width = 360px height = 640px ></td>
-    
-  </tr> 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/ISWTC(2020).jpg)  |  ![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/ISWTC(2020).jpg)
 
 
 <p align="center">
