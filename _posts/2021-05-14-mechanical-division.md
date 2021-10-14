@@ -92,49 +92,18 @@ Working together, we learn to design, and problem solve with the help of researc
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_1.jpg)[Design of the blade molds.] |  ![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_2.jpg) [Preparing the wood for the CNC machine.]
-![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_3.jpg) [Priming the molds.] |  ![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_4.jpg) [Polishing the molds. ]
-
-<p align="center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_design.jpg">
-</p>
-> Design of the blade molds.
-
-<section>
-    <img width="300" src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_design.jpg">
-    <img width="300" src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_1.jpg">
-</section>
 
 
 <p align="center">
-  <div>
-  <br>
-  </div>
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_1.jpg">
-</p>
-> Preparing the wood for the CNC machine.
+  ({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_design.jpg)[Design of the blade molds.] 
+  </p>
+![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_1.jpg) [Preparing the wood for the CNC machine.] | ![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_2.jpg) [Freshly cut molds] 
+![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_3.jpg) [Priming the molds. ] |![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_4.jpg) [Polishing the molds]
 
 
 
 
-<p align="center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_2.jpg">
-</p>
-> Freshly cut molds.
 
-
-
-<p align="center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_3.jpg">
-</p>
-> Priming the molds.
-
-
-
-<p align="center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_4.jpg">
-</p>
-> Polishing the molds. 
 
 
 Interested in learning more about how the components of a wind turbine come together to create energy? 
