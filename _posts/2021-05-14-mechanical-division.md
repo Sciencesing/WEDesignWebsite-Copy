@@ -46,15 +46,12 @@ Working together, we learn to design, and problem solve with the help of researc
 *Rotor System - The system that converts wind energy into mechanical energy (torque, etc.).*  
 *Pitch Mechanism - Operates and controlls the angle of the turbine's blades. *  
 
-<p align="center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/drivetrain.jpg">
-</p>
-> Our 2019 drivetrain model.
 
-<p align="center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/drivetrain_back.jpg">
-</p>
-> This angle of our drivetrain shows where the three turbine blades will be connected to the hub.
+<section>
+    <img width="300" src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/drivetrain.jpg" [Our 2019 drivetrain model.]>
+    <img width="300" src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/drivetrain_back.jpg" [This angle of our drivetrain shows where the three turbine blades will be connected to the hub.]>
+</section>
+
 
 ### Current Rotor System Projects
 
