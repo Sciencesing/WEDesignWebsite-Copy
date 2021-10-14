@@ -48,7 +48,7 @@ For payments please email *contact@windenergydesign.com* with the 20$ registrati
 <p align="right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/ISWTC_3.jpg">
 </p>
-> Monitoring our turbine's data wile competing (summer 2019).
+> Monitoring our turbine's data while competing (summer 2019).
 
 
 <p align="left">
@@ -60,6 +60,7 @@ For payments please email *contact@windenergydesign.com* with the 20$ registrati
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
+![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/ISWTC(2020).jpg)  |  ![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/ISWTC(2020).jpg)
 ![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/ISWTC(2020).jpg)  |  ![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/ISWTC(2020).jpg)
 
 
