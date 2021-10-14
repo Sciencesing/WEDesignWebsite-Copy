@@ -96,7 +96,10 @@ Working together, we learn to design, and problem solve with the help of researc
 </p>
 > Design of the blade molds.
 
-
+<section>
+    <img width="300" src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_design.jpg">
+    <img width="300" src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_1.jpg">
+</section>
 
 
 <p align="center">
