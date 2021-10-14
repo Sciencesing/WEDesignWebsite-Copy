@@ -89,14 +89,11 @@ Working together, we learn to design, and problem solve with the help of researc
 
 * Manufacture blades using new process and design
 
-
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-
-
 <p align="center">
   ({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_design.jpg)[Design of the blade molds.] 
   </p>
+  
+table:
 ![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_1.jpg) [Preparing the wood for the CNC machine.] | ![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_2.jpg) [Freshly cut molds] 
 ![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_3.jpg) [Priming the molds. ] |![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_4.jpg) [Polishing the molds]
 
