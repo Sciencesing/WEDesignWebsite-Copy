@@ -34,8 +34,7 @@ For payments please email *contact@windenergydesign.com* with the 20$ registrati
 
 
 
-
-Some of our events| at competition
+Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
 ![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/ISWTC_1.jpg) 
 Presenting our mini wind turbine at the ISWTC (summer 2019).
