@@ -24,19 +24,27 @@ Our administrative division works both behind the scenes and, sometimes literall
 |Presenting our turbine at Ingenium (2019).|Presenting our turbine at the University of Manitoba machine shop (2019)|
 
 Our team's administrative tasks include:
-  * Sponsorship organization
-    ..*Contacting with previous, current and possible future sponsors to help finance and support our team.*
-  * Finance management
-  * Competition coordination
-  * University coordination
-    ..*Setting up machine shop and wind tunnel access.*
-  * GrabCAD management
-  * Document organisation and management
-  * Marketing Material
-    ..*Creating and distributing posters*
-    ..*Managing our social media accounts*
-    ..*Making presentations*
-  * And of course, management of this website!
+* Sponsorship organization
+  ..*Contacting with previous, current and possible future sponsors to help finance and support our team.*
+* Finance management
+* Competition coordination
+* University coordination
+  ..*Setting up machine shop and wind tunnel access.*
+* GrabCAD management
+* Document organisation and management
+* Marketing Material
+  ..*Creating and distributing posters*
+  ..*Managing our social media accounts*
+  ..*Making presentations*
+* And of course, management of this website!
+
+```no-highlight
+1. First ordered list item
+2. Another item
+⋅⋅* Unordered sub-list.
+1. Actual numbers don't matter, just that it's a number
+⋅⋅1. Ordered sub-list
+4. And another item.
 
 Typically, members of the administrative division are also part of one or more of the mechanical, electrical and sustainability projects as well.
 
