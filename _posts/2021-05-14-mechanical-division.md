@@ -109,6 +109,12 @@ Polishing the molds.
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_4.jpg" alt="Polishing the molds" title="Polishing the molds" width="25%"/>
 </p>
 
+<p align="center">
+  <img alt="Preparing the wood for the CNC machine" src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_1.jpg" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Freshly cut molds" src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_2.jpg" width="45%">
+</p>
+
 
 
 
