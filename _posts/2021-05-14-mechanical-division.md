@@ -87,21 +87,24 @@ Working together, we learn to design, and problem solve with the help of researc
 * Manufacture blades using new process and design
 
 <p align="center">
-  ({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_design.jpg)[Design of the blade molds.] 
-  </p>
+  ({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_design.jpg) 
+</p>
+<p align="center">
+Design of the blade molds.
   
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_1.jpg) 
-Preparing the wood for the CNC machine.
-| ![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_2.jpg) 
-Freshly cut molds
-![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_3.jpg) 
-Priming the molds. 
-|![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_4.jpg) 
-Polishing the molds.
+  
+</p>
+
+|   |   |
+|---|---|
+![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_1.jpg)|![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_2.jpg)|
+|Preparing the wood for the CNC machine.|Freshly cut molds.|
+|![]{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_3.jpg)|![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_4.jpg)|
+|Priming the molds.|Polishing the molds.|
 
 <p align="left">
+  
+  
   <img alt="Preparing the wood for the CNC machine" src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_1.jpg" width="100">
   &nbsp; &nbsp;
   <img alt="Freshly cut molds" src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_2.jpg" width="100">
