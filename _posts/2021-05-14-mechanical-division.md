@@ -65,10 +65,6 @@ Working together, we learn to design, and problem solve with the help of researc
 *Tower - The structure holding up the of the wind turbine.*  
 *Nacelle - A container that houses most of the wind turbine components.*  
 
-
-{% include googleDrivePlayer.html id=page.driveId %}
-> Our mini wind turbine in action!
-
 ### Current Frame and Tower Projects
 
 * Design a new, lighter display tower.
@@ -78,9 +74,15 @@ Working together, we learn to design, and problem solve with the help of researc
 * Improve weather resistance of nacelle.
 
 <p align="center">
+  
+  
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/full_render_2019.jpg">
 </p>
-> A rendering of our 2019 turbine model design.
+<p align="center">
+  <A rendering of our 2019 turbine model design.
+     
+     
+</p>
 
 ### Current Blade Projects
 
@@ -90,8 +92,12 @@ Working together, we learn to design, and problem solve with the help of researc
   ({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_design.jpg) 
 </p>
 <p align="center">
-Design of the blade molds.
-  
+
+<p align="center">
+  <Design of the blade molds.
+     
+     
+</p>
   
 </p>
 
