@@ -38,7 +38,6 @@ Our team's administrative tasks include:
   ..*Making presentations*
 * And of course, management of this website!
 
-```no-highlight
 1. First ordered list item
 2. Another item
 ⋅⋅* Unordered sub-list.
