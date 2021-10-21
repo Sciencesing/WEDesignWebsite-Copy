@@ -90,7 +90,7 @@ Working together, we learn to design, and problem solve with the help of researc
 * Manufacture blades using new process and design
 
 <p align="center">
-  ({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_design.jpg) 
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_design.jpg">
 </p>
 <p align="center">
   Design of the blade molds.  
