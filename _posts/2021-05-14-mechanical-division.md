@@ -82,7 +82,7 @@ Working together, we learn to design, and problem solve with the help of researc
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/full_render_2019.jpg">
 </p>
 <p align="center">
-  <A rendering of our 2019 turbine model design.
+  A rendering of our 2019 turbine model design.
 </p>
 
 ### Current Blade Projects
@@ -93,20 +93,22 @@ Working together, we learn to design, and problem solve with the help of researc
   ({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_design.jpg) 
 </p>
 <p align="center">
-  <Design of the blade molds.  
+  Design of the blade molds.  
 </p>
-  
 
-|   |   |
+
+
+
+|![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_1.jpg)|![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_2.jpg)|
 |---|---|
-![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_1.jpg)|![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_2.jpg)
 |Preparing the wood for the CNC machine.|Freshly cut molds.|
 ![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_3.jpg)|![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_4.jpg)
 |Priming the molds.|Polishing the molds.|
 
-|   |   |
+
+
+|![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_1.jpg)|![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_2.jpg)|
 |---|---|
-![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_1.jpg)|![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_2.jpg)
 |Presenting our mini wind turbine at the ISWTC (summer 2019).|Setting up our turbine at competition (summer 2019).|
 ![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_3.jpg)|![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_4.jpg)
 |Monitoring our turbine's data while competing (summer 2019).|Our wind turbine set up for competition in the ISWTC wind tunnel (summer 2019).|
