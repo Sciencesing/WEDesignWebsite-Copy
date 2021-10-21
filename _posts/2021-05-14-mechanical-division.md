@@ -103,10 +103,10 @@ Polishing the molds.
 
 
 <p float="left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_1.jpg" width="100" />
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_2.jpg" width="100" /> 
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_3.jpg" width="100" />
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_4.jpg" width="100"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_1.jpg" title="Preparing the wood for the CNC machine" width="100" />
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_2.jpg" title="Freshly cut molds" width="100" /> 
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_3.jpg" title="Priming the molds" width="100" />
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_4.jpg" title="Polishing the molds" width="25%"/>
 </p>
 
 
