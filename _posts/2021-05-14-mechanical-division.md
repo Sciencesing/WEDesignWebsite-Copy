@@ -51,7 +51,10 @@ Working together, we learn to design, and problem solve with the help of researc
     <img width="300" src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/drivetrain.jpg">
     <img width="300" src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/drivetrain_back.jpg" >
 </section>
-[Our 2019 drivetrain model.] and [This angle of our drivetrain shows where the three turbine blades will be connected to the hub.]
+<section>
+    <Our 2019 drivetrain model.>
+    <This angle of our drivetrain shows where the three turbine blades will be connected to the hub.>
+</section>
 
 ### Current Rotor System Projects
 
@@ -64,6 +67,15 @@ Working together, we learn to design, and problem solve with the help of researc
 *Frame - The exterior shell of the wind turbine.*  
 *Tower - The structure holding up the of the wind turbine.*  
 *Nacelle - A container that houses most of the wind turbine components.*  
+
+<section>
+    <img width="300" src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/pitch_mechanism_2019_1.jpg">
+    <img width="300" src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/pitch_mechanism_2019_2.jpg" >
+</section>
+<section>
+    <A look at our 2019 pitch mechanism.>
+    <From this angle, you can see where the pitch machanism connects with the hub and the turbine blades. >
+</section>
 
 ### Current Frame and Tower Projects
 
