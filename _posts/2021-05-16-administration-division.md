@@ -25,7 +25,7 @@ Our administrative division works both behind the scenes and, sometimes literall
 
 Our team's administrative tasks include:
   * Sponsorship organization
-  ⋅⋅*Contacting with previous, current and possible future sponsors to help finance and support our team.
+  ⋅⋅*Contacting with previous, current and possible future sponsors to help finance and support our team.*
   * Finance management
   * Competition coordination
   * University coordination
