@@ -124,5 +124,5 @@ Working together, we learn to design, and problem solve with the help of researc
 
 
 
-Interested in learning more about how the components of a wind turbine come together to create energy? 
+Interested in learning more about how the components of a wind turbine come together to create energy?
 Check out <https://www.energy.gov/eere/wind/how-wind-turbine-works-text-version> for some cool diagrams!
