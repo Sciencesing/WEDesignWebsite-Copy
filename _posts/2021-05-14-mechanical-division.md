@@ -43,19 +43,16 @@ Working together, we learn to design, and problem solve with the help of researc
 
 * Design sustainable manufacturing.
 
-*Rotor System - The system that converts wind energy into mechanical energy (torque, etc.).*  
-*Pitch Mechanism - Operates and controlls the angle of the turbine's blades. *  
+*Rotor System - The system that converts wind energy into mechanical energy (torque, etc.).*
+*Pitch Mechanism - Operates and controlls the angle of the turbine's blades.*  
 
 
-<section>
-    <img width="300" src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/drivetrain.jpg">
-    <img width="300" src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/drivetrain_back.jpg" >
-</section>
-<section>
-    <Our 2019 drivetrain model.>
-    <This angle of our drivetrain shows where the three turbine blades will be connected to the hub.>
-</section>
 
+     
+|![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/drivetrain.jpg)|![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/drivetrain_back.jpg.jpg)|
+|---|---|
+|Our 2019 drivetrain model.|This angle of our drivetrain shows where the three turbine blades will be connected to the hub.|      
+      
 ### Current Rotor System Projects
 
 * Improve weather resistance of pitch mechanism.
