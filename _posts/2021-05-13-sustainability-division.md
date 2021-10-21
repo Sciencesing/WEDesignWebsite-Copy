@@ -6,11 +6,11 @@ tags: homepage
 
 ---
 
-Our sustainability division is responsible for writing and compiling sustainability report for WE Design. The sustainability report is worth 30% of our final mark at the ISWTC and a core part of the deals at WE Design. The sustainability division may also influence the more technical aspects of the design in order to aim for greener and celaner energy.
+Our sustainability division is responsible for writing and compiling the sustainability report for our WE Design team. This sustainability report is worth 30% of our final mark at the ISWTC and a core part of the deals at WE Design. The sustainability division may also influence the more technical aspects of the design in order to aim for greener and cleaner energy.
 
 ### Lifecycle analysis (LCA) section
 
-Deals with the lifecycle of every material used to create the wind turbine. Considers processes such as:
+This division deals with the lifecycle of every material used to create the wind turbine. They consider processes such as:
 
 * Mining
 * Machining
@@ -19,15 +19,22 @@ Deals with the lifecycle of every material used to create the wind turbine. Cons
 * Waste disposal and alternatives
 * Environmental impact
 
+<p align="center">
+  <   
+  
+  >
+</p>
 
 <p align="center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/LCA(2020).jpg">
 </p>
-> Our turbine's LCA (2020).
+<p align="center">
+  Our turbine's LCA (2020).
+</p>
 
 ### Business case section
 
-This is the financial and cost-related section of the report. Please note that some parts of the report are included merely for the sake of consideration. Costs covered may include:
+This is the financial and cost-related section of the report. Note that some parts of the report are included merely for the sake of consideration. Costs covered may include:
 
 * Purchase of initial and any extra material material
 * Capital
@@ -37,10 +44,10 @@ This is the financial and cost-related section of the report. Please note that s
 
 ### Local embededdness section
 
-This section deals how to go about integrating the wind turbine into the selected are. This may include:
+This section deals with integrating the wind turbine into the selected location of theturbine's final destination. This may include:
 
 * Stakeholder data
 * Land data
-* Current facilities in the are and the potential need for outsourcing or creation
+* Current facilities in the area and the potential need for outsourcing or creation
 
-And many more! Sustainability is not a one-perrson's job and the more, the merrier! Contact us for how to be a part of WE Design.
+And many more! Sustainability is not a one-perrson's job and the more, the merrier! Contact us to get involved.
