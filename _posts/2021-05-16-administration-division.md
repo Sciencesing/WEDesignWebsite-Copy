@@ -25,17 +25,17 @@ Our administrative division works both behind the scenes and, sometimes literall
 
 Our team's administrative tasks include:
   * Sponsorship organization
-    *Contacting with previous, current and possible future sponsors to help finance and support our team.*
+    ..*Contacting with previous, current and possible future sponsors to help finance and support our team.*
   * Finance management
   * Competition coordination
   * University coordination
-    *Setting up machine shop and wind tunnel access.*
+    ..*Setting up machine shop and wind tunnel access.*
   * GrabCAD management
   * Document organisation and management
   * Marketing Material
-    *Creating and distributing posters*
-    *Managing our social media accounts*
-    *Making presentations*
+    ..*Creating and distributing posters*
+    ..*Managing our social media accounts*
+    ..*Making presentations*
   * And of course, management of this website!
 
 Typically, members of the administrative division are also part of one or more of the mechanical, electrical and sustainability projects as well.
