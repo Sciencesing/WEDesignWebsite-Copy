@@ -43,6 +43,14 @@ Monitoring our turbine's data while competing (summer 2019).
 | ![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/ISWTC_4.jpg)
 Our wind turbine set up for competition in the ISWTC wind tunnel (summer 2019).
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+
+![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/ISWTC_1.jpg) Presenting our mini wind turbine at the ISWTC (summer 2019). |![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/ISWTC_2.jpg)Setting up our turbine at competition (summer 2019)
+![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/ISWTC_3.jpg) Monitoring our turbine's data while competing (summer 2019). |![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/ISWTC_4.jpg)
+Our wind turbine set up for competition in the ISWTC wind tunnel (summer 2019).
+
+
 <p align="center">
    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/ISWTC(2020).jpg)">
   </p>
