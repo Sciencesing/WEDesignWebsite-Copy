@@ -51,7 +51,7 @@ Working together, we learn to design, and problem solve with the help of researc
      
 |![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/drivetrain.jpg)|![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/drivetrain_back.jpg)|
 |---|---|
-|Our 2019 drivetrain model.|This angle of our drivetrain shows where the three turbine blades will be connected to the hub.|      
+|Our 2019 drivetrain model.|This angle of our drivetrain shows the connection for the hub.|      
       
 ### Current Rotor System Projects
 
