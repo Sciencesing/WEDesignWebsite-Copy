@@ -112,6 +112,13 @@ Polishing the molds.
   <figcaption>Caption goes here</figcaption>
 </p>
 
+<p align="left">
+  <a style='text-decoration: none; color: orange;'>
+    <img src='{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_1.jpg' style='width: 100%'>
+    <div style='width: 130px; text-align: center;'>I just love to visit this most beautiful place in all the world.</div>
+  </a>
+</p>
+
 
 
 
