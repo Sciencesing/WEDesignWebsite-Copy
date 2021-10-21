@@ -18,14 +18,18 @@ This division deals with the lifecycle of every material used to create the wind
 * Method of power used ie coal, electrical, mechanical, hydroelectric, etc.
 * Waste disposal and alternatives
 * Environmental impact
-\\
+
 <p align="center">
+  
+  
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/LCA(2020).jpg">
 </p>
 <p align="center">
   Our turbine's LCA (2020).
+  
+  
 </p>
-\\
+
 ### Business case section
 
 This is the financial and cost-related section of the report. Note that some parts of the report are included merely for the sake of consideration. Costs covered may include:
@@ -35,7 +39,7 @@ This is the financial and cost-related section of the report. Note that some par
 * Salaries
 * Remediation
 * Site preparation
-\\
+
 ### Local embededdness section
 
 This section deals with integrating the wind turbine into the selected location of theturbine's final destination. This may include:
