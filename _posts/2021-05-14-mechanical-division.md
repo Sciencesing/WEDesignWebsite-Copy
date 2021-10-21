@@ -110,7 +110,13 @@ Working together, we learn to design, and problem solve with the help of researc
 |Preparing the wood for the CNC machine.|Freshly cut molds.|
 ![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_3.jpg)|![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_4.jpg)
 |Priming the molds.|Polishing the molds.|
-      
+
+|   |   |
+|---|---|
+![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_1.jpg)|![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_2.jpg)
+|Presenting our mini wind turbine at the ISWTC (summer 2019).|Setting up our turbine at competition (summer 2019).|
+![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_3.jpg)|![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_4.jpg)
+|Monitoring our turbine's data while competing (summer 2019).|Our wind turbine set up for competition in the ISWTC wind tunnel (summer 2019).|
       
 <p align="left">
   <img alt="Preparing the wood for the CNC machine" src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_1.jpg" width="100">
