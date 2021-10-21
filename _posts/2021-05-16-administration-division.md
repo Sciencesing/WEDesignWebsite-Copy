@@ -19,9 +19,6 @@ Our administrative division works both behind the scenes and, sometimes literall
   Presenting our turbine at Ingenium (2017).
 </p>
 
-|![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/Ingenium.jpg)|![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/shop_presentation(2019).jpg)|
-|---|---|
-|Presenting our turbine at Ingenium (2019).|Presenting our turbine at the machine shop (2019)|
 
 
 Our team's administrative tasks include:
@@ -35,6 +32,9 @@ Our team's administrative tasks include:
 * And of course, management of this website!
 
 
+|![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/Ingenium.jpg)|![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/shop_presentation(2019).jpg)|
+|---|---|
+|Presenting our turbine at Ingenium (2019).|Presenting our turbine at the machine shop (2019)|
 
 Typically, members of the administrative division are also part of one or more of the mechanical, electrical and sustainability projects as well.
 
