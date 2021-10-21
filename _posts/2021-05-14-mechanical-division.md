@@ -102,6 +102,13 @@ Priming the molds.
 Polishing the molds.
 
 
+<p float="left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_1.jpg" width="100" />
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_2.jpg" width="100" /> 
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_3.jpg" width="100" />
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_4.jpg" width="100"/>
+</p>
+
 
 
 
