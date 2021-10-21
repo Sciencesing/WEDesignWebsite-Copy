@@ -21,7 +21,7 @@ Our administrative division works both behind the scenes and, sometimes literall
 
 |![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/Ingenium.jpg)|![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/shop_presentation(2019).jpg)|
 |---|---|
-|Presenting our turbine at Ingenium (2019).|Presenting our turbine at the University of Manitoba machine shop (2019)|
+|Presenting our turbine at Ingenium (2019).|Presenting our turbine at the machine shop (2019)|
 
 
 Our team's administrative tasks include:
