@@ -15,17 +15,13 @@ Our administrative division works both behind the scenes and, sometimes literall
 <p align="center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/ingenium(2017).jpg">
 </p>
-> Presenting our turbine at Ingenium (2017).
-
-<p align="left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/Ingenium.jpg">
+<p align ="center">
+  Presenting our turbine at Ingenium (2017).
 </p>
-> Presenting our turbine at Ingenium (2019).
 
-<p align="right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/shop_presentation_2019.jpg">
-</p>
-> Presenting our turbine at the University of Manitoba machine shop (2019).
+|![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/Ingenium.jpg)|![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/shop_presentation_2019.jpg)|
+|---|---|
+|Presenting our turbine at Ingenium (2019).|Presenting our turbine at the University of Manitoba machine shop (2019)|
 
 Our team's administrative tasks include:
   * Sponsorship organization
