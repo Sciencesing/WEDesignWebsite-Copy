@@ -33,15 +33,6 @@ For payments please email *contact@windenergydesign.com* with the 20$ registrati
 [International Small Wind Turbine Competition (ISWTC)](https://www.hanze.nl/eng/education/engineering/school-of-engineering/organisation/contest/international-small-wind-turbine-contest/contest/iswtc/iswtc-history) occurs in the **summer of 2022**
 
 
-|   |   |
-|---|---|
-![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/ISWTC_1.jpg) Presenting our mini wind turbine at the ISWTC (summer 2019).
-|  ![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/ISWTC_2.jpg)Setting up our turbine at competition (summer 2019).
-![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/ISWTC_3.jpg)  
-Monitoring our turbine's data while competing (summer 2019).
-| ![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/ISWTC_4.jpg)
-Our wind turbine set up for competition in the ISWTC wind tunnel (summer 2019).
-
 
 |   |   |
 |---|---|
@@ -52,7 +43,8 @@ Our wind turbine set up for competition in the ISWTC wind tunnel (summer 2019).
 
   
 <p align="center">
-  <img src="{{site.url}}{{site.baseurl}}/assets/img/posts/ISWTC(2020).jpg">
+  <img src="{{site.url}}{{site.baseurl}}/assets/img/posts/ISWTC(2020).jpg"[Image of WE Design team on a video call attending the International Small Wind Turbine Competition online in the summer of 2020]
+       Attending the ISWTC online (summer 2020).>
 </p>
 Attending the ISWTC online (summer 2020).
 
