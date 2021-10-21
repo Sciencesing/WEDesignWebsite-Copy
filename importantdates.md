@@ -43,6 +43,11 @@ Monitoring our turbine's data while competing (summer 2019).
 Our wind turbine set up for competition in the ISWTC wind tunnel (summer 2019).
 
 
+|   |   |
+|---|---|
+![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/ISWTC_1.jpg)|![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/ISWTC_2.jpg)
+![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/ISWTC_3.jpg)|![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/ISWTC_4.jpg)
+
 <p align="center">
    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/ISWTC(2020).jpg)">
 </p>
