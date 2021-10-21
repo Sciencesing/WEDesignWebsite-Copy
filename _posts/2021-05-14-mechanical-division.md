@@ -2,7 +2,7 @@
 layout: post
 title: Mechanical Division
 driveId: 1IMn2X9iUNPh420PbOKZFLxISnDZkKMfA/preview
-featured-img: pitch_mechanism_2019
+featured-img: MechDiv
 tags: homepage
 
 ---
