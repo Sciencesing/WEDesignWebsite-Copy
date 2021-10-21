@@ -86,14 +86,10 @@ Working together, we learn to design, and problem solve with the help of researc
 * Improve weather resistance of nacelle.
 
 <p align="center">
-  
-  
   <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/full_render_2019.jpg">
 </p>
 <p align="center">
   <A rendering of our 2019 turbine model design.
-     
-     
 </p>
 
 ### Current Blade Projects
@@ -104,25 +100,19 @@ Working together, we learn to design, and problem solve with the help of researc
   ({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_design.jpg) 
 </p>
 <p align="center">
-
-<p align="center">
-  <Design of the blade molds.
-     
-     
+  <Design of the blade molds.  
 </p>
   
-</p>
 
 |   |   |
 |---|---|
-|![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_1.jpg)|![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_2.jpg)|
+![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_1.jpg)|![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_2.jpg)
 |Preparing the wood for the CNC machine.|Freshly cut molds.|
-|![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_3.jpg)|![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_4.jpg)|
+![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_3.jpg)|![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_4.jpg)
 |Priming the molds.|Polishing the molds.|
-
+      
+      
 <p align="left">
-  
-  
   <img alt="Preparing the wood for the CNC machine" src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_1.jpg" width="100">
   &nbsp; &nbsp;
   <img alt="Freshly cut molds" src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_2.jpg" width="100">
