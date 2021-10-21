@@ -105,7 +105,7 @@ Working together, we learn to design, and problem solve with the help of researc
 ![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_3.jpg)|![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_4.jpg)
 |Priming the molds.|Polishing the molds.|
 
-
+## Jasper's Fancy Stuff
 
 <p align="left">
   <img alt="Preparing the wood for the CNC machine" src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_1.jpg" width="100">
@@ -119,7 +119,7 @@ Working together, we learn to design, and problem solve with the help of researc
   <figcaption>Caption goes here</figcaption>
 </p>
 
-
+## Fancy stuffs ends here
 
 
 
