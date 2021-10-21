@@ -43,8 +43,7 @@ For payments please email *contact@windenergydesign.com* with the 20$ registrati
 
   
 <p align="center">
-  <img src="{{site.url}}{{site.baseurl}}/assets/img/posts/ISWTC(2020).jpg"[Image of WE Design team on a video call attending the International Small Wind Turbine Competition online in the summer of 2020]
-       Attending the ISWTC online (summer 2020).>
+  <img src="{{site.url}}{{site.baseurl}}/assets/img/posts/ISWTC(2020).jpg"[Image of WE Design team on a video call attending the International Small Wind Turbine Competition online in the summer of 2020]>
 </p>
 Attending the ISWTC online (summer 2020).
 
