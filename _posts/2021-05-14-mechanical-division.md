@@ -103,20 +103,13 @@ Polishing the molds.
 
 <p align="left">
   <img alt="Preparing the wood for the CNC machine" src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_1.jpg" width="100">
-  <figcaption>Caption goes here</figcaption> &nbsp; &nbsp;
+  <!-- <figcaption>Caption goes here</figcaption> &nbsp; &nbsp; -->
   <img alt="Freshly cut molds" src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_2.jpg" width="100">
-  <figcaption>Caption goes here</figcaption> &nbsp; &nbsp;
+  <!-- <figcaption>Caption goes here</figcaption> &nbsp; &nbsp; -->
   <img alt="Priming the molds" src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_3.jpg" width="100">
-  <figcaption>Caption goes here</figcaption> &nbsp; &nbsp; 
+  <!-- <figcaption>Caption goes here</figcaption> &nbsp; &nbsp; -->
   <img alt="Polishing the molds" src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_4.jpg" width="45%">
-  <figcaption>Caption goes here</figcaption>
-</p>
-
-<p align="left">
-  <a style='text-decoration: none; color: orange;'>
-    <img src='{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_1.jpg' style='width: 100%'>
-    <div style='width: 130px; text-align: center;'>I just love to visit this most beautiful place in all the world.</div>
-  </a>
+  <!-- <figcaption>Caption goes here</figcaption> -->
 </p>
 
 
