@@ -105,22 +105,6 @@ Working together, we learn to design, and problem solve with the help of researc
 ![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_3.jpg)|![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_4.jpg)
 |Priming the molds.|Polishing the molds.|
 
-## Jasper's Fancy Stuff
-
-<p align="left">
-  <img alt="Preparing the wood for the CNC machine" src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_1.jpg" width="100">
-  &nbsp; &nbsp;
-  <img alt="Freshly cut molds" src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_2.jpg" width="100">
-  &nbsp; &nbsp;
-  <img alt="Priming the molds" src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_3.jpg" width="100">
-  &nbsp; &nbsp;
-  <figcaption>Caption goes here</figcaption> <figcaption>Caption goes here</figcaption> <figcaption>Caption goes here</figcaption>
-  <img alt="Polishing the molds" src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/blade_manufacturing_4.jpg" width="45%">
-  <figcaption>Caption goes here</figcaption>
-</p>
-
-## Fancy stuffs ends here
-
 
 
 
