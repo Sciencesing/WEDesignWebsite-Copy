@@ -2,7 +2,7 @@
 layout: post
 title: Mechanical Division
 driveId: 1IMn2X9iUNPh420PbOKZFLxISnDZkKMfA/preview
-featured-img: mech_div
+featured-img: drivetrain
 tags: homepage
 
 ---
