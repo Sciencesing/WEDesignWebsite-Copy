@@ -27,7 +27,7 @@ social:
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About Us', link: '/aboutus'}
-  - {name: 'Contact', link: '/contact'}
+  - {name: 'Contact Us', link: '/contact_us'}
   - {name: 'Important Dates', link: '/importantdates'}
   - {name: 'Join Us', link: '/joinus'}
   - {name: 'Sponsors', link: '/sponsors'}
