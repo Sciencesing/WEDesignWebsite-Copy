@@ -1,7 +1,7 @@
 ---
 layout: newpage
-title: Contact
-permalink: /contact/
+title: Contact Us
+permalink: /contact_us/
 featured-img: Contact_Us
 ---
 
