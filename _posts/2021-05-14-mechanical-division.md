@@ -67,7 +67,7 @@ Working together, we learn to design, and problem solve with the help of researc
 
 
 |![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/pitch_mechanism_2019_1.PNG)|![]({{ site.url }}{{ site.baseurl }}/assets/img/posts/pitch_mechanism_2019_2.PNG)|
-|---|---|
+|----|---|
 |A closer look at our 2019 pitch mechanism.|From this angle, you can see where the pitch machanism connects with the hub and the turbine blades.|      
       
 ### Current Frame and Tower Projects
