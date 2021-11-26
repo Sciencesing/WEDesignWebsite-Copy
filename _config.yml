@@ -6,9 +6,9 @@ description: > # Meta description of Homepage Write an awesome description for y
     Engineering student design team for small-scale wind turbines and green energy.
 logo: 'assets/img/teamlogo.jpg'
 favicon: 'assets/img/teamfaviconcircle.png'
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/WEDesignWebsite" # the subpath of your site, e.g. /blog
 # old one is: /WEDesignWebsite
-url: "https://windenergydesign.com/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://sciencesing.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # old one is: sciencesing.github.io
 
 # SEO PLUGIN
